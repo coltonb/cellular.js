@@ -4,4 +4,4 @@ A cellular automata simulator library for the web.
 
 ## Demo
 
-https://coltonb.github.io/cellular.js/demo/demo.html
+A demo using the library is hosted here: https://coltonb.github.io/cellular.js/demo/demo.html
