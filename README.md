@@ -1,6 +1,6 @@
 # cellular.js
 
-A cellular automata simulator library for the web.
+A toy cellular automata simulator that runs in the browser.
 
 ## Demo
 
